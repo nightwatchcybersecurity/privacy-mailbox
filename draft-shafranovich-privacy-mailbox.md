@@ -1,6 +1,6 @@
 ---
 title: Common Mailbox Name for Privacy Issues
-docname: draft-shafranovich-privacy-mailbox
+docname: draft-shafranovich-privacy-mailbox-00
 ipr: trust200902
 cat: info
 pi:
@@ -54,6 +54,13 @@ privacy@example.com
 Organizations setting up this mailbox should be aware of potential for spam,
 malware and other attacks via emails sent to this address.
 
+# IANA Considerations
+
+This document has no IANA actions
+
+However, an IANA registry for common mailbox names
+may be a good idea in the future.
+
 # Terminology
 
 In this document, the key words "MUST", "MUST NOT", "REQUIRED",
@@ -66,4 +73,5 @@ and "OPTIONAL" are to be interpreted as described in {{!RFC2119}}.
 > **Note to the RFC Editor:**  Please remove this section prior
 > to publication.
 
-Development of this draft takes place on Github at https://github.com/nightwatchcyber/privacy-mailbox
+Development of this draft takes place on Github at:
+https://github.com/nightwatchcybersecurity/privacy-mailbox
