@@ -6,6 +6,11 @@ used for contacting domain name owners about privacy issues.
 
 Example of such mailbox: privacy@example.com
 
+# Internet draft
+
+Latest Internet draft can be found here:
+https://tools.ietf.org/html/draft-shafranovich-privacy-mailbox-00
+
 # Building the draft
 
 To build the text and HTML drafts, use the following make command.
