@@ -62,12 +62,15 @@ Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Mailbox Definition  . . . . . . . . . . . . . . . . . . . . .   2
-   3.  Security considerations . . . . . . . . . . . . . . . . . . .   2
+   3.  Security considerations . . . . . . . . . . . . . . . . . . .   3
    4.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   3
    5.  Terminology . . . . . . . . . . . . . . . . . . . . . . . . .   3
    6.  Normative References  . . . . . . . . . . . . . . . . . . . .   3
-   Appendix A.  Note to Readers  . . . . . . . . . . . . . . . . . .   3
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   3
+   Appendix A.  Acknowledgements . . . . . . . . . . . . . . . . . .   3
+   Appendix B.  Note to Readers  . . . . . . . . . . . . . . . . . .   3
+   Appendix C.  Document History . . . . . . . . . . . . . . . . . .   4
+     C.1.  Since draft-shafranovich-privacy-mailbox  . . . . . . . .   4
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   4
 
 1.  Introduction
 
@@ -99,10 +102,7 @@ Table of Contents
 
    privacy@example.com
 
-3.  Security considerations
 
-   Organizations setting up this mailbox should be aware of potential
-   for spam, malware and other attacks via emails sent to this address.
 
 
 
@@ -113,6 +113,11 @@ Shafranovich            Expires December 2, 2018                [Page 2]
 
 Internet-Draft   Common Mailbox Name for Privacy Issues         May 2018
 
+
+3.  Security considerations
+
+   Organizations setting up this mailbox should be aware of potential
+   for spam, malware and other attacks via emails sent to this address.
 
 4.  IANA Considerations
 
@@ -144,13 +149,35 @@ Internet-Draft   Common Mailbox Name for Privacy Issues         May 2018
               DOI 10.17487/RFC6973, July 2013,
               <https://www.rfc-editor.org/info/rfc6973>.
 
-Appendix A.  Note to Readers
+Appendix A.  Acknowledgements
+
+   The author would like to thank Jeffrey Goldberg for proposing this
+   idea in the context of the "security.txt" effort.
+
+Appendix B.  Note to Readers
 
       *Note to the RFC Editor:* Please remove this section prior to
       publication.
 
    Development of this draft takes place on Github at:
    https://github.com/nightwatchcybersecurity/privacy-mailbox
+
+
+
+
+Shafranovich            Expires December 2, 2018                [Page 3]
+
+Internet-Draft   Common Mailbox Name for Privacy Issues         May 2018
+
+
+Appendix C.  Document History
+
+      *Note to the RFC Editor:* Please remove this section prior to
+      publication.
+
+C.1.  Since draft-shafranovich-privacy-mailbox
+
+   o  Added acknowledgements and history sections
 
 Author's Address
 
@@ -165,4 +192,33 @@ Author's Address
 
 
 
-Shafranovich            Expires December 2, 2018                [Page 3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shafranovich            Expires December 2, 2018                [Page 4]

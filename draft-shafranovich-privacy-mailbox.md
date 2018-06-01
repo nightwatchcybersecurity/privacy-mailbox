@@ -68,6 +68,11 @@ In this document, the key words "MUST", "MUST NOT", "REQUIRED",
 and "OPTIONAL" are to be interpreted as described in {{!RFC2119}}.
 
 --- back
+# Acknowledgements
+
+The author would like to thank Jeffrey Goldberg for proposing this idea
+in the context of the "security.txt" effort.
+
 # Note to Readers
 
 > **Note to the RFC Editor:**  Please remove this section prior
@@ -75,3 +80,11 @@ and "OPTIONAL" are to be interpreted as described in {{!RFC2119}}.
 
 Development of this draft takes place on Github at:
 https://github.com/nightwatchcybersecurity/privacy-mailbox
+
+# Document History
+
+> **Note to the RFC Editor:**  Please remove this section prior
+> to publication.
+
+## Since draft-shafranovich-privacy-mailbox
+- Added acknowledgements and history sections
