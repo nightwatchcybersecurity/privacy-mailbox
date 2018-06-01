@@ -1,6 +1,6 @@
 ---
-title: Mailbox Name for Privacy Issues
-docname: draft-shafranovich-privacy-mailbox-00
+title: Common Mailbox Name for Privacy Issues
+docname: draft-shafranovich-privacy-mailbox
 ipr: trust200902
 cat: info
 pi:
@@ -40,11 +40,14 @@ issues. Further information regarding privacy issues in Internet protocols
 can be found in {{!RFC6973}}.
 
 The new mailbox is defined as follows:
-MAILBOX |AREA              |USAGE
---------|------------------|-----:
-PRIVACY |Customer Relations|Privacy issues and concerns
 
-Example of a new mailbox: privacy@example.com
+MAILBOX | AREA               | USAGE
+--------|--------------------|-------
+PRIVACY | Customer Relations | Privacy issues and concerns
+
+Example of a new mailbox:
+
+privacy@example.com
 
 # Security considerations
 
